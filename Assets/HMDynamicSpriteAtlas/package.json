@@ -1,0 +1,16 @@
+{
+  "name": "com.hm.hmdynamicspriteatlas",
+  "version": "0.1.0",
+  "displayName": "HMDynamicSpriteAtlas",
+  "description": "HM Dynamic Sprite Atlas",
+  "unity": "2020.3",
+  "dependencies": {
+  },
+  "author": {
+    "name": "HuangMin",
+    "email": "hmok@163.com",
+    "url": "https://github.com/hmok38/HMDynamicSpriteAtlas"
+  },
+  "samples": [
+  ]
+}
